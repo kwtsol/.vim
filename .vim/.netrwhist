@@ -1,0 +1,3 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/mnt/c/SNU/Lectures/2022/Spring/Data_Structures/Assignments/testcase/2-MovieDatabase/my_output'
